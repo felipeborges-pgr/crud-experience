@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 99999
+    },
+    {
+      "id": 3,
+      "name": "Samsung S2",
+      "price": 99999
+    },
+    {
+      "id": 4,
+      "name": "Teclado Gamer ",
+      "price": 99999
+    },
+    {
+      "id": 5,
+      "name": "Geladeira",
+      "price": 99999
+    }
+  ]
+}

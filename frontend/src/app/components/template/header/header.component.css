@@ -1,0 +1,31 @@
+.header {
+    display: flex;
+    align-items: center;
+    /* background-color: rgb(89, 123, 124); */
+}
+
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #333;
+}
+
+.header .logo {
+    max-width: 200px;
+    max-height: 80px;
+    position: relative;
+    top: 5px;
+}
+.header .title-group {
+    padding-left: 25px;
+} 
+
+.header .title-group i{
+    padding-right: 3px;
+} 
+
+.header .title-group .icon-home{
+    position: relative;
+    top: 3px;
+} 
