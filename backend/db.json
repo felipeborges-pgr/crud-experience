@@ -1,13 +1,18 @@
 {
   "products": [
+     {
+      "id": 1,
+      "name": "Moto G9",
+      "price": 99999
+    },
     {
       "id": 2,
-      "name": "Notebook Mac Pro",
+      "name": "MacBook Pro",
       "price": 99999
     },
     {
       "id": 3,
-      "name": "Samsung S2",
+      "name": "Samsung A20",
       "price": 99999
     },
     {
